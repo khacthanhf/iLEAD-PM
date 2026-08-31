@@ -30,3 +30,8 @@ dist-ssr
 
 backups/
 .env.local
+.vercel
+.env*
+
+# Supabase CLI local state
+supabase/.temp/
